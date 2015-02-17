@@ -1,0 +1,1 @@
+Nammu is a GUI for edition and creation of Sumerian transliterations for the ORACC project. It allows validations and lemmatization of ATF files as well as visualization in two modes: source view and model view [...]
